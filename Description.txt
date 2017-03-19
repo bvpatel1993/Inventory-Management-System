@@ -1,0 +1,6 @@
+1.Add Product
+With this function U can add products to stock_sheet.
+2.Select Product
+with this function u can select products from stock sheet [only wich are currently avilable in stock]
+3.view
+with this function u can view the transacations.
